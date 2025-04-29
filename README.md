@@ -24,6 +24,7 @@ Crud de datos de los vehículos y sus contactos
     git clone https://github.com/cesarcf9920/vip2cars.git
     
 2. Php 8.2, manejador de base de datos: mysql
+La base de datos es vip2cars se encuentra en el proyecto : crud_vip2cars\db
    
 4. Navega al directorio del proyecto:
     
